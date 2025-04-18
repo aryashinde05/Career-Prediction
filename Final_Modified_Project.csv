@@ -1,0 +1,560 @@
+Field,Career,Specialization_Skills,Aptitude_Score,Technical_Knowledge,Problem_Solving,Communication_Skills,Creativity,Leadership,Teamwork,Certifications_Completed,Internships_Completed,Experience_Years,Projects_Done,Industry_Exposure
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",89,70,85,71,48,77,54,6,3,2,1,5
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",88,42,66,88,39,33,83,3,1,2,5,3
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",73,72,64,53,74,40,31,7,2,1,5,7
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",83,92,64,65,41,24,49,3,3,0,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",92,96,78,76,59,36,58,1,3,0,1,9
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",83,52,77,57,85,31,87,4,3,2,0,2
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",78,89,97,65,82,34,71,4,1,0,1,7
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",78,60,57,54,43,21,43,3,3,1,2,5
+Arts,Writer,"Creative Writing, Editing, Content Strategy",95,79,60,76,42,76,40,1,1,2,2,4
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",86,58,60,48,35,23,45,1,2,1,2,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",84,66,78,81,53,46,36,2,3,1,0,2
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",79,56,83,39,63,72,89,1,2,2,2,7
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",86,73,80,65,45,53,67,6,1,1,3,10
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",78,60,75,73,58,22,40,4,1,2,4,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",73,76,78,77,86,60,53,2,1,1,0,9
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",83,70,56,61,41,34,64,7,3,0,1,5
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",72,86,71,86,40,51,37,6,3,0,1,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",94,71,96,87,69,27,49,7,2,0,1,7
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",90,96,90,73,79,40,59,4,1,2,0,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",81,74,68,54,58,34,37,6,2,1,0,3
+Arts,Writer,"Creative Writing, Editing, Content Strategy",91,88,52,85,89,48,48,5,1,1,1,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",70,80,93,67,87,44,68,3,1,0,1,1
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",70,77,82,53,44,61,87,5,2,0,1,9
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",82,93,91,63,66,47,55,3,1,2,1,8
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,58,79,62,88,57,37,4,2,2,3,5
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",85,76,89,46,54,54,88,4,3,1,3,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",76,60,85,77,42,74,60,5,2,2,0,1
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",79,52,75,77,40,33,60,6,2,2,2,4
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",84,66,62,74,70,80,82,7,1,2,1,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",77,58,63,41,40,51,41,3,2,0,0,8
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",80,80,51,76,74,68,60,3,3,0,0,6
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",93,60,89,71,82,67,41,2,3,1,0,2
+Arts,Writer,"Creative Writing, Editing, Content Strategy",83,88,56,52,36,25,56,1,3,2,0,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",82,61,73,78,52,67,32,6,3,0,0,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",92,73,55,74,68,69,41,6,2,2,1,9
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",82,100,60,77,81,36,84,2,3,1,1,7
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",78,53,69,78,54,76,53,4,2,2,4,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",86,49,50,62,69,63,37,5,2,1,0,10
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,46,100,86,73,61,82,6,1,1,0,9
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",88,87,56,82,54,58,83,3,2,0,2,2
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",82,68,52,66,73,65,58,2,2,2,2,5
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",81,76,55,58,44,51,82,5,1,0,2,6
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",90,88,84,82,78,27,81,7,3,2,1,4
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",89,72,66,81,58,73,87,5,3,2,2,8
+Arts,Graphic Designer,"Creative Writing, Editing, Content Strategy",89,97,61,64,68,48,39,6,2,1,1,8
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",77,66,79,84,70,64,60,1,1,1,0,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",93,94,59,68,47,36,41,3,2,2,1,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",80,76,95,54,43,57,78,5,2,0,1,3
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",76,68,59,78,62,73,76,7,3,1,4,9
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",70,79,88,76,66,44,84,3,1,1,5,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",79,47,95,63,81,42,71,6,2,2,2,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,54,78,56,37,44,42,2,3,2,0,5
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",73,87,74,78,82,52,40,7,2,1,0,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",70,52,62,80,84,28,78,5,3,0,0,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",80,95,97,58,73,28,54,7,1,1,2,7
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",74,59,91,44,90,65,73,6,2,2,2,7
+Arts,Writer,"Creative Writing, Editing, Content Strategy",88,69,63,82,35,78,44,5,1,1,2,4
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",88,67,75,51,81,58,45,7,3,2,0,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",73,85,70,64,29,41,63,2,1,1,2,8
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",71,67,90,74,44,22,54,7,1,2,0,7
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",76,78,87,76,55,73,55,3,1,2,5,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",82,52,55,58,41,21,86,3,2,0,1,5
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",89,86,85,52,59,67,31,5,3,2,2,8
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",90,58,52,86,38,76,59,6,1,1,0,8
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",81,88,69,53,83,76,85,2,2,2,0,5
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",71,68,74,74,65,76,32,4,3,1,2,2
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",91,80,97,42,59,44,31,3,3,0,2,7
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",78,83,58,76,32,29,83,7,3,1,0,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",85,99,99,62,58,55,46,4,1,0,2,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",77,91,68,89,72,35,87,7,1,0,1,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",93,80,96,44,51,49,31,5,1,2,2,3
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",87,63,80,68,69,75,73,4,3,0,0,8
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",73,58,64,69,86,49,74,6,3,1,1,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",93,50,100,75,82,23,47,7,1,0,5,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",80,41,71,69,78,47,53,6,1,0,1,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",86,77,75,44,70,43,30,7,3,2,0,8
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",77,81,61,65,86,47,63,4,3,1,0,5
+Business,Pharmacist,"Accounting, Financial Modelling, Risk Management",88,64,70,67,58,63,62,6,2,0,1,7
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",77,54,96,62,72,27,56,3,2,2,0,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",75,60,70,80,84,79,69,5,1,2,0,1
+Arts,Writer,"Creative Writing, Editing, Content Strategy",92,59,65,41,38,25,80,4,3,1,2,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",71,81,52,59,58,21,71,7,3,2,1,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",84,59,97,74,38,49,60,3,2,0,2,6
+Science,Data Scientist,"Genetics, Microbiology, Bioinformatics",70,61,52,67,77,49,88,7,3,2,0,9
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",75,45,88,51,50,22,58,4,1,1,1,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",88,68,97,73,64,31,45,7,2,1,0,3
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",73,80,70,47,67,63,86,3,3,2,1,8
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",82,90,83,77,41,47,59,6,3,0,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",84,54,93,83,51,80,50,6,1,2,1,8
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",78,87,65,85,31,45,85,5,3,1,0,9
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",72,83,91,54,91,49,83,7,2,2,1,4
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",71,91,93,47,45,62,58,6,2,2,2,10
+Arts,Writer,"Creative Writing, Editing, Content Strategy",85,68,96,73,31,32,35,2,3,0,1,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",87,96,84,86,68,76,45,3,3,2,2,6
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",87,86,75,85,56,70,37,3,3,0,0,2
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",75,78,91,79,57,70,68,4,3,2,2,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",87,44,95,46,59,29,81,5,2,2,5,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",80,80,60,75,87,21,69,1,1,0,3,4
+Engineering,Mechanical Engineer,,76,69,51,40,60,49,53,6,2,0,4,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",92,55,72,79,58,60,57,1,3,1,2,4
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",92,97,97,71,42,20,54,2,3,0,2,5
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",83,57,93,80,62,35,53,5,2,2,1,7
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",87,95,53,70,89,58,78,3,2,1,2,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",76,71,74,91,50,46,47,1,3,0,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",79,58,57,50,61,61,39,2,2,0,1,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",77,71,85,51,87,30,51,5,3,1,1,7
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",93,81,85,55,45,52,82,2,2,2,0,7
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",83,79,65,45,81,79,31,6,3,2,0,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",87,78,57,43,37,52,59,1,2,1,2,9
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",74,75,53,78,66,29,83,4,3,2,3,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",83,66,68,57,31,39,63,4,1,0,5,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",91,90,84,83,32,63,86,5,1,2,0,8
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",94,96,80,66,46,28,72,2,2,0,1,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",91,66,72,63,86,74,45,3,1,2,0,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",95,76,74,58,44,58,80,1,3,0,2,6
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",91,88,70,66,58,46,48,4,2,1,1,5
+Arts,Writer,"Creative Writing, Editing, Content Strategy",79,92,100,60,58,62,35,4,2,0,0,10
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",95,68,74,49,38,54,64,2,3,2,1,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",84,81,51,67,43,27,80,4,3,0,0,1
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",75,62,97,82,46,46,70,7,3,2,2,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",78,57,71,48,55,33,83,2,2,2,1,3
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",79,75,83,79,45,71,68,1,3,0,3,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",92,55,99,59,77,45,53,2,1,2,0,8
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",86,56,89,81,49,41,46,4,2,1,1,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",70,84,95,49,70,50,77,2,3,2,0,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",83,55,53,77,74,25,82,4,2,1,0,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",73,84,81,50,59,65,62,6,1,1,2,9
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",71,62,74,50,67,77,64,5,1,2,2,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",72,55,99,59,40,38,39,4,3,1,0,4
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",76,62,52,65,80,40,33,7,2,1,0,2
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",92,54,72,74,85,67,81,7,3,0,1,2
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",83,51,96,59,59,39,87,7,2,1,1,10
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",81,44,79,68,38,32,66,7,3,1,5,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",88,48,69,54,74,66,47,4,3,1,5,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,73,65,83,56,59,58,4,2,1,0,6
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,58,82,56,52,79,35,5,2,1,0,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",70,84,95,85,32,53,69,6,1,2,2,6
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",94,95,86,52,39,56,79,3,1,1,1,9
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",95,67,54,48,39,32,77,4,2,2,0,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",72,98,86,79,41,39,48,3,1,2,2,3
+Arts,Writer,"Creative Writing, Editing, Content Strategy",94,56,95,79,89,51,47,1,1,2,2,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",84,51,91,47,71,51,60,6,2,0,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",73,50,84,53,47,45,56,2,2,0,0,4
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",84,73,99,68,53,23,51,3,2,2,1,2
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",79,73,99,51,53,60,59,7,3,0,2,1
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",75,75,98,46,57,28,79,6,2,1,4,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",82,70,81,55,53,61,78,1,2,2,4,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",76,95,79,42,81,32,57,6,2,2,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",95,86,93,65,77,31,62,2,1,2,1,1
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",91,93,84,70,46,58,88,4,2,0,2,8
+Business,Marketing Manager,,70,76,55,76,79,42,51,4,1,0,1,9
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",91,67,66,42,71,64,54,7,3,0,0,3
+Arts,Writer,"Creative Writing, Editing, Content Strategy",80,86,70,46,48,32,50,4,2,1,1,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",83,95,75,57,51,47,41,5,2,0,2,9
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",75,69,58,89,56,77,79,5,1,2,2,7
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",74,76,83,68,39,71,59,5,3,0,0,6
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",88,59,51,78,59,71,64,7,2,0,1,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",95,56,65,59,69,78,81,5,3,0,4,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",88,59,53,50,85,40,72,1,3,0,2,7
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",95,65,80,73,44,49,32,7,2,2,1,10
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",82,70,78,67,79,70,69,6,3,0,0,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",76,100,85,71,64,42,36,1,3,2,0,6
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",77,57,69,79,50,39,83,4,2,0,2,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",83,76,95,56,84,55,53,2,1,1,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",88,62,86,85,32,48,50,5,2,1,0,6
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",88,57,63,83,75,36,31,6,3,2,2,5
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",92,97,51,65,86,46,45,2,2,2,0,5
+Science,Data Scientist,"Genetics, Microbiology, Bioinformatics",95,57,89,75,73,80,44,7,1,1,1,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",81,67,63,67,75,75,78,7,3,1,5,9
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",92,60,76,65,42,64,52,1,3,0,1,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",78,58,74,72,41,56,45,5,1,1,1,6
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",83,55,88,67,76,68,60,7,1,2,0,4
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",75,86,64,86,33,68,59,1,3,2,1,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",84,79,89,56,78,68,58,1,1,1,2,1
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",82,81,100,83,46,41,50,3,2,2,2,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",76,65,61,90,78,26,78,6,1,0,0,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",80,68,60,86,81,25,89,1,2,0,2,1
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",79,86,84,78,46,65,36,4,3,1,0,4
+Science,Lawyer,"Machine Learning, Statistics, Data Visualization",70,53,65,45,49,22,35,7,3,2,0,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",76,52,50,49,43,42,84,1,3,1,1,3
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",87,42,82,61,62,78,82,5,3,2,2,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",92,69,83,84,79,63,31,7,3,2,5,3
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",72,44,89,81,39,23,84,7,1,2,1,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",78,67,58,87,46,34,61,4,1,0,0,9
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",74,59,51,78,44,80,73,1,3,2,1,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",92,55,72,41,64,34,79,4,1,0,0,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",93,89,67,56,60,37,68,1,1,2,1,9
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",82,77,66,65,54,48,49,6,3,1,2,2
+Arts,Writer,"Creative Writing, Editing, Content Strategy",85,87,77,49,33,29,75,4,1,0,0,8
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",85,99,57,69,65,53,84,2,3,0,1,5
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",81,63,81,83,85,38,54,3,3,0,0,9
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",87,85,60,65,58,55,73,4,3,1,1,8
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",80,81,60,62,51,44,54,5,3,0,4,6
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",86,45,69,66,85,69,34,3,1,1,2,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",76,42,84,88,40,35,72,3,1,2,3,10
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,87,98,40,62,21,79,1,2,2,1,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",75,63,96,43,61,52,85,4,2,1,0,9
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",75,92,87,66,62,43,73,6,3,0,0,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",87,64,98,53,68,75,87,7,2,0,2,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",88,78,53,65,35,49,62,3,1,1,2,2
+Arts,Writer,"Creative Writing, Editing, Content Strategy",89,64,91,40,65,54,50,5,1,2,2,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",88,81,62,82,74,48,57,6,2,1,0,6
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",71,69,96,47,61,67,81,6,2,0,2,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",72,98,76,70,31,23,58,5,1,0,1,10
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,81,59,43,75,42,50,7,2,0,2,10
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",91,63,77,82,75,52,60,5,1,0,3,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",94,83,81,78,56,24,46,1,1,2,3,9
+Medical,Mechanical Engineer,"Anatomy, Physiology, Clinical Diagnosis",73,51,100,66,68,73,44,2,2,2,0,4
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",91,89,52,76,65,76,42,7,2,2,1,9
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",86,91,76,63,34,39,80,4,3,0,1,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",75,80,78,55,84,49,79,3,3,0,1,10
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",88,60,94,78,48,30,40,4,3,0,0,10
+Arts,Writer,"Creative Writing, Editing, Content Strategy",78,97,69,79,58,27,57,6,3,1,0,9
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",73,96,75,65,77,27,60,3,3,0,2,10
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",76,54,69,66,66,49,90,7,1,2,2,4
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",73,61,87,77,38,59,46,1,2,2,2,6
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",80,40,65,85,54,78,52,4,1,2,5,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",91,75,95,45,32,76,37,1,3,1,2,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",92,54,57,72,42,26,85,1,3,2,0,3
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",71,55,85,51,86,65,67,7,2,1,2,2
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",79,91,93,46,31,32,31,4,1,1,1,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",75,85,70,51,37,42,70,4,3,1,0,2
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",77,53,86,56,59,46,67,7,3,0,2,4
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",84,85,77,60,34,32,69,7,3,0,1,2
+Arts,Writer,"Creative Writing, Editing, Content Strategy",82,89,81,74,54,64,40,3,3,2,0,8
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",91,76,58,75,81,71,69,6,1,2,0,7
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",71,97,55,85,75,70,85,6,1,1,0,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",89,96,70,45,48,62,62,7,3,0,1,9
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",70,80,67,48,85,49,74,5,1,2,1,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",84,77,63,45,36,72,62,1,3,2,5,10
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",76,83,63,55,39,67,59,6,2,0,1,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",93,84,97,73,80,61,66,2,2,1,2,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",95,54,56,66,39,38,71,7,2,2,0,10
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",87,99,74,49,84,57,80,7,1,2,1,8
+Business,Marketing Manager,,79,56,78,42,86,32,75,3,3,0,0,3
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",84,59,65,72,74,69,46,7,2,0,1,2
+Arts,Graphic Designer,"Creative Writing, Editing, Content Strategy",74,55,85,65,62,33,78,3,2,1,2,2
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",93,70,98,68,48,24,82,5,1,1,2,1
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",80,74,61,61,68,20,90,5,1,2,0,2
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",77,80,57,67,53,57,76,7,2,1,2,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",90,57,77,64,56,66,81,1,3,2,3,6
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",77,62,74,51,72,57,58,3,3,2,2,3
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",75,68,94,78,55,22,77,3,3,0,0,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,99,93,82,37,57,87,2,2,2,2,8
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",84,94,61,83,48,49,32,1,1,0,1,9
+Medical,Financial Analyst,"Accounting, Financial Modelling, Risk Management",74,72,72,57,88,51,44,1,3,2,1,2
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",82,71,91,63,90,55,81,6,2,2,0,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",83,65,92,75,47,74,72,5,2,2,1,1
+Arts,Writer,"Creative Writing, Editing, Content Strategy",80,76,54,42,46,49,89,6,1,1,2,9
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",89,62,51,81,32,72,47,1,3,1,1,5
+Law,Data Scientist,"Machine Learning, Statistics, Data Visualization",90,86,55,60,68,35,50,7,2,0,2,7
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",81,57,99,53,49,60,45,2,3,2,0,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",89,80,57,40,51,78,55,7,3,0,3,4
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",70,61,75,53,47,33,49,7,3,0,3,1
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",72,63,93,77,55,33,83,1,2,2,3,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",77,61,94,52,46,28,59,6,3,1,2,9
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",92,65,88,46,40,40,65,4,1,1,1,3
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",81,84,93,40,36,36,50,7,2,0,1,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",84,70,70,63,66,32,36,7,2,1,1,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",92,57,57,44,44,38,60,4,3,2,1,3
+Arts,Writer,"Creative Writing, Editing, Content Strategy",72,55,77,43,61,53,45,2,3,2,0,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",94,73,91,83,58,69,39,5,3,1,2,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",91,75,68,66,74,72,87,3,2,1,1,8
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",77,78,72,47,68,26,49,1,1,0,2,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",93,84,75,63,47,61,74,6,1,1,1,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",88,52,51,80,87,30,88,5,2,0,3,8
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",89,72,59,56,43,76,57,6,1,2,4,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",75,82,55,70,71,75,31,5,3,2,0,5
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",87,76,90,56,90,53,39,1,2,2,2,10
+Business,Financial Analyst,,80,64,85,79,67,32,44,3,1,1,1,4
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",81,86,57,56,51,50,56,1,2,1,2,3
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",92,79,94,58,69,75,55,3,1,1,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",71,94,95,84,52,61,76,6,2,0,1,1
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",74,50,81,69,47,75,32,2,1,0,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",73,55,59,80,68,46,77,3,2,0,0,1
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",78,72,67,60,34,22,63,5,2,2,2,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",82,61,69,86,74,79,48,2,2,0,3,4
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",82,74,79,54,44,67,34,6,2,1,3,8
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",84,56,59,47,64,22,57,4,2,1,5,7
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",71,66,67,85,34,51,31,2,3,2,2,5
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",92,61,59,57,74,35,65,3,2,1,1,5
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",82,64,89,87,74,77,60,2,2,1,1,7
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",76,95,95,43,73,68,51,6,2,1,1,7
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",92,89,86,82,43,49,49,2,1,0,1,8
+Arts,Writer,"Creative Writing, Editing, Content Strategy",86,76,70,68,72,26,74,6,2,0,0,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",77,75,51,53,72,79,29,4,3,1,1,7
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",87,86,74,74,83,74,76,3,2,1,0,8
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",84,73,79,64,67,33,81,7,1,1,2,1
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",84,61,85,58,65,43,76,5,1,1,1,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",74,44,82,87,73,58,36,2,2,0,4,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",71,64,64,42,39,41,32,7,2,2,3,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",85,88,55,76,78,32,51,1,2,1,2,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",74,83,50,52,82,34,81,5,2,0,0,8
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",92,53,75,55,40,63,87,2,1,1,1,8
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",75,82,83,74,69,65,33,5,2,2,2,5
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",81,88,99,55,57,64,90,7,1,0,0,8
+Arts,Writer,"Creative Writing, Editing, Content Strategy",74,79,78,77,70,56,50,1,1,0,2,9
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",89,95,64,62,82,22,91,5,3,2,1,2
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",77,72,77,46,50,59,62,7,1,2,0,3
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",80,56,98,55,56,56,79,5,2,0,2,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,45,99,46,41,67,53,1,2,2,3,2
+Engineering,Software Engineer,"Structural Analysis, Construction Management",93,56,62,64,75,52,74,1,2,1,0,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",86,70,68,47,57,22,66,1,2,2,4,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",79,71,55,90,38,49,69,4,3,2,1,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",71,86,82,56,34,42,86,6,3,0,0,3
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",72,90,51,57,44,51,30,6,3,2,0,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",82,71,75,80,66,76,34,7,3,0,0,10
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",86,73,94,50,87,67,76,1,1,1,0,9
+Arts,Writer,,72,71,52,65,63,56,35,7,3,2,2,2
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",79,65,88,62,35,36,73,6,1,2,0,5
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",77,94,50,48,82,33,77,5,2,0,0,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",73,64,84,76,48,71,72,1,1,0,0,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",82,56,83,73,80,20,50,2,1,2,3,4
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",76,72,61,67,80,70,60,1,3,0,3,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",76,78,50,47,65,46,61,1,2,2,4,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",85,59,80,52,90,29,31,6,2,1,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",74,60,61,84,32,37,58,7,3,2,0,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",86,85,67,87,55,63,86,3,1,1,1,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",79,86,70,89,51,46,80,5,3,1,2,5
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",73,92,69,49,39,39,76,6,1,0,1,2
+Arts,Writer,"Creative Writing, Editing, Content Strategy",92,67,65,70,51,27,32,7,3,0,2,6
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",83,98,59,58,53,27,89,7,3,0,0,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",74,92,50,71,50,61,45,5,2,0,2,10
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",71,76,62,55,76,55,39,7,2,2,0,1
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,76,69,59,89,30,36,2,2,1,0,10
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",93,43,79,48,37,57,87,4,3,2,0,3
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,82,81,83,43,71,44,3,2,1,5,8
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",93,77,55,70,79,27,45,2,2,1,0,10
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",80,86,62,77,70,31,35,2,3,1,1,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",85,78,70,63,64,52,85,5,2,2,1,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",87,95,69,87,47,77,42,3,1,0,1,5
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",85,76,76,58,58,41,80,5,2,2,2,10
+Arts,Writer,"Creative Writing, Editing, Content Strategy",90,92,66,50,79,77,74,4,1,1,2,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",73,55,53,58,66,58,60,7,2,2,1,7
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",70,82,57,53,39,69,85,5,3,1,1,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",83,71,79,50,52,36,60,1,3,0,0,9
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",81,53,63,58,90,21,60,5,2,0,2,5
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",93,52,71,43,47,35,79,7,1,2,0,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",79,66,69,59,83,53,72,1,2,0,1,8
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",88,89,82,57,73,44,71,2,3,1,2,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",73,86,68,69,80,43,41,4,2,1,0,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",89,89,75,64,87,38,61,7,3,0,2,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",90,98,68,62,32,59,46,6,1,0,1,9
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",72,85,93,80,71,32,38,1,1,0,2,1
+Arts,Writer,"Creative Writing, Editing, Content Strategy",94,80,54,90,35,68,84,4,3,2,2,2
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",73,87,57,50,66,37,40,5,1,2,0,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",95,60,99,65,80,66,66,6,3,1,1,4
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",84,76,92,48,55,52,65,5,3,2,1,9
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",80,63,80,47,90,36,54,7,3,2,1,3
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",85,66,75,40,61,63,44,2,2,1,1,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",73,47,58,59,70,63,81,7,1,1,4,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",75,56,94,51,59,46,79,7,2,0,1,9
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",77,59,53,59,48,38,79,7,2,0,0,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",82,84,58,53,68,46,49,5,1,2,0,4
+Business,Financial Analyst,"Market Research, Brand Management, Advertising",92,93,88,79,54,45,90,1,2,1,0,1
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",89,60,63,61,85,46,82,2,3,2,2,10
+Arts,Writer,"Creative Writing, Editing, Content Strategy",73,91,58,50,37,76,82,4,2,2,2,10
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",74,96,89,65,81,29,46,2,3,1,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",79,85,93,41,33,69,35,4,1,1,0,9
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",74,98,75,54,87,76,40,3,2,1,1,10
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",81,78,53,66,33,79,42,1,1,1,4,6
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",70,60,84,75,36,60,82,1,3,2,0,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",93,80,66,86,68,56,51,4,2,2,3,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",79,72,75,65,71,74,62,5,3,2,2,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",74,68,71,43,40,55,60,6,3,1,2,3
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",88,51,64,82,82,35,57,5,3,0,1,9
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",88,58,71,54,69,33,87,3,1,2,1,4
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",89,82,55,87,37,22,60,4,1,0,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",81,94,81,64,64,25,87,3,1,0,0,2
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",92,52,87,83,32,39,41,4,2,0,0,9
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",85,56,78,46,71,65,72,3,3,1,0,4
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",74,66,62,76,79,27,90,4,1,1,0,9
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",86,50,54,75,78,37,66,1,3,2,5,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",83,70,87,60,88,53,51,3,1,2,0,5
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",81,66,76,42,70,43,75,3,3,1,2,3
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",82,87,71,45,66,34,84,4,1,1,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",90,84,91,86,63,49,57,2,1,0,2,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",83,87,64,47,82,32,73,2,1,1,2,10
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",74,71,56,51,38,49,62,1,1,1,2,3
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",91,86,90,40,75,78,43,5,3,1,1,4
+Arts,Writer,"Creative Writing, Editing, Content Strategy",92,97,75,50,37,69,76,5,1,1,2,4
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",74,56,52,75,85,55,71,1,1,0,1,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",87,67,95,80,57,33,50,5,1,2,2,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",83,77,91,51,58,30,70,6,3,0,0,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",87,81,66,73,85,78,31,6,1,1,5,3
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",89,85,59,86,82,34,36,6,3,1,3,10
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",70,66,59,81,44,41,85,7,2,2,3,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",76,89,63,49,81,48,88,7,3,2,2,2
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",86,50,98,81,77,28,75,6,2,2,0,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",72,93,78,81,60,67,47,4,1,0,0,9
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",79,84,69,46,42,74,31,2,1,2,2,3
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",76,55,79,56,63,26,49,1,3,1,2,8
+Arts,Writer,"Creative Writing, Editing, Content Strategy",81,73,53,90,71,75,77,4,1,1,0,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",91,66,81,78,42,41,53,6,1,1,1,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",84,68,66,55,46,64,53,1,3,0,1,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",92,69,75,39,33,25,78,2,1,2,2,8
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",90,47,91,74,33,49,73,5,2,2,4,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",85,72,98,39,45,55,87,4,2,2,5,1
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",77,51,90,71,58,62,36,2,1,2,2,6
+Engineering,Doctor,"Anatomy, Physiology, Clinical Diagnosis",75,74,57,83,61,22,32,1,1,1,0,8
+Engineering,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",73,73,85,62,88,68,69,3,2,0,5,4
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",80,67,77,85,58,63,37,4,1,2,0,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",86,58,54,51,43,24,53,7,2,1,1,5
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",71,75,87,73,86,28,84,1,3,1,2,9
+Arts,Writer,"Creative Writing, Editing, Content Strategy",75,86,65,89,82,28,52,1,2,0,2,6
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",73,99,62,69,86,75,52,7,1,2,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",72,56,83,82,41,34,72,2,1,0,1,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",76,82,88,76,73,65,90,1,2,2,2,5
+Engineering,Biotechnologist,"Programming, Data Structures, Algorithms",76,55,99,76,62,46,84,4,2,0,3,5
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",85,75,60,56,54,64,49,6,1,2,1,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",71,41,96,55,56,32,62,7,1,2,0,9
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",77,64,70,80,55,56,58,4,1,0,1,10
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",84,88,93,49,45,74,49,7,3,2,2,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",85,91,62,50,85,50,74,1,3,0,2,4
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",70,82,98,54,86,60,76,2,2,0,1,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",79,62,73,49,67,24,60,4,2,2,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",76,65,70,67,46,78,58,3,3,2,0,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",85,86,96,73,82,44,55,6,3,0,0,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",79,83,60,80,84,67,54,7,2,1,0,8
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",81,64,66,76,33,32,42,5,3,0,0,6
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",86,51,69,56,48,30,83,2,2,1,5,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",82,66,69,71,87,80,64,2,1,1,3,8
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",81,56,92,65,76,66,62,5,2,0,0,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,57,68,74,78,75,41,5,3,0,1,5
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",83,97,50,42,75,66,53,4,3,0,0,8
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",88,65,92,44,41,44,83,1,3,1,1,10
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",88,69,98,48,43,29,31,1,2,0,2,3
+Arts,Graphic Designer,,95,91,75,66,70,39,63,3,3,0,1,8
+Arts,Writer,"Creative Writing, Editing, Content Strategy",83,51,72,70,54,76,69,6,2,2,0,1
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",87,97,91,50,85,69,69,7,1,2,1,6
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",95,50,95,78,87,80,88,1,1,2,1,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",74,71,83,69,61,65,38,3,3,0,1,8
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",89,59,89,79,39,35,82,3,2,0,0,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",75,60,63,42,67,77,87,2,2,0,1,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,69,72,90,50,72,44,2,3,1,3,3
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",83,69,53,71,70,22,84,6,2,1,1,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",73,91,53,65,49,20,48,4,3,2,1,3
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",92,93,67,57,81,62,47,5,3,1,0,2
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",70,63,93,64,49,76,32,5,1,1,1,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",82,77,67,65,40,37,36,6,3,1,0,4
+Arts,Writer,"Creative Writing, Editing, Content Strategy",80,99,75,77,68,26,54,3,2,2,2,9
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",72,98,65,73,69,22,71,6,3,2,1,10
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",86,80,75,74,31,26,60,5,1,1,2,10
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",87,52,94,53,81,57,33,3,1,0,0,4
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",94,81,69,88,42,74,87,5,2,2,2,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",79,59,80,68,31,21,87,4,3,1,0,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",85,47,60,57,72,63,84,2,2,0,5,3
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",90,73,51,81,71,54,47,2,2,0,1,9
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",82,92,63,83,60,31,71,3,3,2,2,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",89,54,94,62,73,49,88,6,1,0,0,5
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",81,77,79,84,51,77,56,5,2,2,2,5
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",73,86,98,63,64,24,33,1,2,1,1,5
+Arts,Writer,"Creative Writing, Editing, Content Strategy",77,93,63,50,64,79,76,4,1,2,1,4
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",81,87,81,45,60,67,87,5,3,0,1,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",88,72,92,42,51,45,73,7,3,2,0,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",84,72,60,42,75,63,88,1,3,2,2,7
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",85,57,98,49,37,32,60,4,1,1,3,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",81,57,75,73,33,28,78,4,2,0,1,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",89,57,85,57,57,62,60,2,1,2,4,7
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",87,84,59,52,37,55,57,3,2,1,0,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",91,76,75,48,36,34,74,5,2,1,2,6
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",81,96,80,68,64,25,45,4,3,1,0,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",85,69,64,82,59,32,60,5,3,1,1,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",94,80,74,72,38,75,71,4,3,1,2,4
+Arts,Writer,"Creative Writing, Editing, Content Strategy",89,69,79,70,33,72,74,6,1,2,2,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",80,94,90,73,59,54,81,2,3,2,2,8
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",91,62,65,40,61,57,33,3,1,0,0,7
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",89,84,66,55,74,64,49,1,3,2,1,7
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,41,70,83,67,46,84,1,3,0,2,8
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",71,51,77,40,88,49,55,6,3,0,5,5
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",82,71,57,51,41,41,81,7,1,0,0,5
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",83,65,81,63,48,41,49,2,2,2,2,4
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",75,68,91,81,83,30,37,4,1,1,0,7
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",81,93,75,44,70,61,46,2,1,0,2,4
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",76,99,58,69,37,74,70,3,1,1,1,8
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",73,57,70,49,70,58,33,1,2,0,2,8
+Arts,Writer,"Creative Writing, Editing, Content Strategy",76,66,93,84,59,70,50,5,1,2,1,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",82,90,90,66,38,53,48,1,3,0,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",80,72,83,53,75,26,87,7,2,2,0,2
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",77,90,92,51,38,39,60,7,1,1,1,3
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",88,81,74,54,69,22,63,7,1,2,0,9
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",71,47,61,48,44,49,60,7,2,1,1,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",90,49,69,74,37,45,76,3,1,2,1,10
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",87,87,89,65,39,79,80,4,2,0,1,8
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",95,86,96,84,46,78,71,2,3,0,0,2
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",90,55,71,57,33,74,38,1,1,2,1,6
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",79,51,94,76,51,58,77,7,1,1,1,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",75,68,54,76,46,31,60,1,3,1,2,3
+Arts,Writer,"Creative Writing, Editing, Content Strategy",93,77,91,65,46,33,69,7,1,1,0,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",91,81,73,60,46,36,37,5,1,2,0,2
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",73,95,82,41,57,56,77,2,2,2,1,3
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",88,55,60,67,82,68,51,5,1,2,1,3
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",83,50,91,60,85,51,55,5,3,2,0,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",83,53,83,62,55,51,40,7,1,1,5,10
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,65,58,48,89,23,37,4,2,1,1,6
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",86,100,86,48,59,40,79,1,3,2,1,3
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",87,64,71,45,81,74,35,6,3,2,0,6
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",87,52,67,42,33,55,62,2,3,1,2,9
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",74,78,68,65,48,80,79,4,3,1,0,10
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",78,72,97,50,67,38,47,6,2,0,2,7
+Arts,Writer,"Creative Writing, Editing, Content Strategy",70,73,73,48,46,25,42,4,2,2,1,3
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",73,73,98,88,41,55,34,7,2,0,0,3
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",95,81,63,79,88,57,33,7,2,1,2,5
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",76,87,75,87,75,31,56,4,1,1,0,6
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",80,69,75,44,78,43,39,3,2,2,2,3
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",83,81,73,63,44,68,49,3,1,0,3,8
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",79,43,88,66,32,34,67,4,3,1,0,7
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",88,63,52,79,59,56,48,3,1,0,2,7
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",77,72,89,65,75,27,67,2,1,0,2,10
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",72,70,90,76,47,44,58,1,1,0,0,4
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",77,89,66,80,84,44,81,6,2,0,1,2
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",87,62,65,67,86,54,66,7,2,0,0,7
+Arts,Writer,"Creative Writing, Editing, Content Strategy",74,52,81,54,72,43,75,2,3,2,1,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",89,80,80,89,54,41,88,1,2,2,2,6
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",80,50,78,65,83,75,49,3,1,0,2,3
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",78,82,84,71,69,32,61,6,2,2,0,2
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",88,78,82,88,75,77,53,2,2,1,3,2
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",81,50,65,49,36,43,79,5,1,0,4,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",74,63,76,70,57,65,33,7,3,2,4,4
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",85,76,99,64,46,66,47,4,2,2,0,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",95,72,63,81,75,50,74,7,3,1,1,1
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",94,92,86,50,47,61,42,1,1,1,1,3
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",82,91,75,45,70,26,64,1,2,1,0,4
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",75,70,59,53,50,60,70,5,3,1,1,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",85,89,74,77,42,71,33,5,3,0,1,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",87,52,75,52,35,57,32,4,1,2,0,4
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",86,99,91,46,40,50,34,3,2,2,0,6
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",81,60,75,76,59,37,49,7,3,1,2,6
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",70,61,73,85,34,23,62,2,3,2,4,7
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",76,42,85,43,69,24,36,2,3,2,2,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",83,76,99,84,81,30,35,2,3,2,1,3
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",87,77,81,44,86,31,89,3,3,1,2,9
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",92,58,76,56,42,40,57,7,3,2,0,8
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",70,71,52,47,62,33,62,7,3,2,2,8
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",89,55,98,42,64,48,35,4,3,2,1,3
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",79,63,70,52,47,66,30,2,3,0,0,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",84,86,92,88,90,78,38,1,3,0,2,5
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",80,65,57,67,44,50,44,1,2,2,0,1
+Science,Data Scientist,"Machine Learning, Statistics, Data Visualization",73,76,75,67,33,22,54,1,1,2,2,4
+Science,Biotechnologist,"Genetics, Microbiology, Bioinformatics",84,98,91,69,44,64,66,5,1,2,0,5
+Engineering,Software Engineer,"Programming, Data Structures, Algorithms",90,41,71,40,44,52,77,5,1,2,2,10
+Engineering,Civil Engineer,"Structural Analysis, Construction Management",85,51,72,49,36,27,42,3,3,2,4,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",95,60,73,67,31,33,44,2,1,2,0,2
+Medical,Doctor,"Anatomy, Physiology, Clinical Diagnosis",84,87,54,72,82,30,73,5,3,0,1,6
+Medical,Pharmacist,"Drug Formulation, Pharmaceutical Chemistry",86,90,94,74,30,67,72,1,2,1,2,6
+Business,Financial Analyst,"Accounting, Financial Modelling, Risk Management",92,81,81,53,85,22,54,5,1,2,0,6
+Business,Marketing Manager,"Market Research, Brand Management, Advertising",80,67,76,76,65,42,45,7,2,2,1,10
+Arts,Graphic Designer,"UI/UX Design, Illustration, Typography",87,80,95,83,84,47,44,1,2,2,2,6
+Arts,Writer,"Creative Writing, Editing, Content Strategy",85,66,68,46,84,27,65,2,3,1,2,7
+Law,Lawyer,"Legal Research, Criminal Law, Civil Law",84,100,73,62,75,46,47,7,1,2,0,7
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",80,44,81,78,56,24,46,3,2,2,4,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",82,46,63,55,39,67,59,4,1,1,2,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",87,43,95,63,81,42,71,4,2,2,0,4
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",77,82,81,78,56,24,46,7,2,1,4,9
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",78,80,58,48,89,23,37,1,3,1,5,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",91,75,57,51,41,41,81,5,1,2,3,5
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",80,61,59,81,44,41,85,5,3,0,5,2
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",86,68,74,72,41,56,45,1,3,0,0,6
+Engineering,Mechanical Engineer,"Thermodynamics, CAD Design, Manufacturing",70,48,96,55,56,32,62,2,3,2,0,9
